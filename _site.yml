@@ -1,5 +1,7 @@
 name: "Neelansh Visen Personal Website"
 title: "Neelansh Visen"
+base_url: https://neelvisen.github.io/Neelansh_Portfolio/
+google_analytics: "G-YSH1JY8CQX"
 description: |
   My Website
 output_dir: "docs"
