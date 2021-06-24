@@ -1,0 +1,18 @@
+---
+title: "Neelansh Visen"
+site: distill::distill_website
+image: "avatar.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/neelansh/"
+  - label: GitHub
+    url: "https://github.com/neelvisen" 
+  - label: Twitter
+    url: "https://twitter.com/neelvisen"
+  - label: Email
+    url: "mailto:neelvisen@gmail.com"
+output:
+  postcards::trestles
+---
+
+

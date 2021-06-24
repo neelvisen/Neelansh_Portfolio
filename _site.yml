@@ -1,0 +1,30 @@
+name: "Neelansh Visen Personal Website"
+title: "Neelansh Visen"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      menu:
+        - text: "Yelp EDA (Python)"
+          href: project_1.html
+        - text: "Premier League Simulation (R)"
+          href: project_2.html
+        - text: "Toronto Apartment Ratings (R)"
+          href: project_3.html
+    - text: "CV"
+      href: pdfs/Neelansh_Visen_Resume.pdf
+    - icon: fa fa-github
+      href: https://github.com/neelvisen
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/neelansh/
+    - icon: fa fa-twitter
+      href: https://twitter.com/neelvisen
+    - icon: fa fa-envelope
+      href: mailto:neelvisen@gmail.com
+
+output: 
+  distill::distill_article
