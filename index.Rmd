@@ -19,27 +19,29 @@ output:
 As a recent economics, mathematics, and statistics graduate from the University of Toronto, I am a firm believer in the the storytelling power of data. I am passionate about combining my analytical problem solving abilities with my programming skills to deliver real-world solutions for clients and stakeholders.
 
 ## Skills
-**Python**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Beautiful Soup
+**Python**: NumPy, Pandas, Matplotlib, Seaborn, Beautiful Soup
 
-**R**: Hadleyverse, Simulations, Statistical Computing
+**R**: Tidyverse, Simulations, Statistical Computing
 
-**Databases**: MySQL
+**Databases**: MySQL, BigQuery, LookML
 
-**Business Intelligence**: Tableau, Microsoft Office, Google Suite
+**Business Intelligence**: Microsoft Office, Google Suite, Tableau, Looker, Adobe Analytics
 
-**IDEs**: Jupyter, RStudio
+**IDEs**: Jupyter, RStudio, VSCode
 
 ## Education
 
-**University of Toronto** | Toronto, ON
+**University of Toronto - St. George** | Toronto, ON
 
 HBSc. Economics, Minor in Mathematics, Minor in Statistics | September 2017 - June 2021
 
 ## Experience
 
-**Lionbridge Technologies Inc.** | Maps Analyst | August 2019 - August 2020
+**Loblaw Digital** | Marketing Intelligence Analyst Co-op | September 2021 - Present
 
-**Lionbridge Technologies Inc.** | Entity Intent Judge | May 2019 - August 2020
+**Lionbridge Technologies** | Maps Analyst | August 2019 - August 2020
+
+**Lionbridge Technologies** | Entity Intent Judge | May 2019 - August 2020
 
 **College Pro Painters** | Project Manager | May 2018 - August 2018
 
@@ -47,7 +49,7 @@ HBSc. Economics, Minor in Mathematics, Minor in Statistics | September 2017 - Ju
 
 **Sports**: NFL (Colts), NBA (Raptors), NHL (Capitals), MLB (Blue Jays), Premier League (Liverpool F.C.)
 
-**Movies** Check out my [Letterboxd](https://letterboxd.com/neelvisen/)
+**Movies**: Check out my [Letterboxd](https://letterboxd.com/neelvisen/)
 
 **Jeopardy!**
 
