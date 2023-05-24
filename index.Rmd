@@ -3,10 +3,10 @@ title: "Neelansh Visen"
 site: distill::distill_website
 image: "images/avatar.png"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/neelansh/"
   - label: GitHub
     url: "https://github.com/neelvisen" 
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/neelansh/"
   - label: Twitter
     url: "https://twitter.com/neelvisen"
   - label: Email
@@ -16,43 +16,49 @@ output:
 ---
 
 ## Bio
-As a recent economics, mathematics, and statistics graduate from the University of Toronto, I am a firm believer in the the storytelling power of data. I am passionate about combining my analytical problem solving abilities with my programming skills to deliver real-world solutions for clients and stakeholders.
+Welcome to my landing page! My name is Neelansh (Neel), and I'm currently working as a Consultant at KPMG in Toronto. As part of the Enterprise Solutions (MS) team, my goal is to leverage Microsoft's extensive suite of next generation applications and technologies to deliver real-world business solutions to clients and stakeholders alike.
 
-## Skills
-**Python**: NumPy, Pandas, Matplotlib, Seaborn, Beautiful Soup
+A lifelong numbers guy, I graduated from the University of Toronto with a degree in economics, mathematics, and statistics in 2021. I am a firm believer in the the storytelling power of data, and hope to continue forging a career in analytics.
 
-**R**: Tidyverse, Simulations, Statistical Computing
+Feel free to take a look around at some of my projects, resume, or contact me at neelvisen@gmail.com!
 
-**Databases**: MySQL, BigQuery, LookML
+## Skills & Certifications 
+**Languages**: Python (NumPy, Pandas, Beautiful Soup), R (Tidyverse, Simulations, Statistical Computing) 
 
-**Business Intelligence**: Microsoft Office, Google Suite, Tableau, Looker, Adobe Analytics
+**Databases**: MySQL, BigQuery, LookML, dbt
 
-**IDEs**: Jupyter, RStudio, VSCode
+**Business Intelligence**: Microsoft Office, Google Suite, Tableau, Looker, Power BI, Adobe Analytics
+
+**Certifications**: Power Platform (PL-300, PL-900), Azure (AI-900, AZ-900, DP-900), Dynamics 365 (MB-910)
 
 ## Education
 
 **University of Toronto - St. George** | Toronto, ON
 
-HBSc. Economics, Minor in Mathematics, Minor in Statistics | September 2017 - June 2021
+Hons. BSc. Economics, Double Minor in Mathematics and Statistics | September 2017 - June 2021
 
 ## Experience
 
-**Loblaw Digital** | Marketing Intelligence Analyst Co-op | September 2021 - Present
+**KPMG** | Functional/Technical Consultant | January 2022 - Present
 
-**Lionbridge Technologies** | Maps Analyst | August 2019 - August 2020
+**Loblaw Digital** | Marketing Intelligence/Data Analyst | September 2021 - December 2021
 
-**Lionbridge Technologies** | Entity Intent Judge | May 2019 - August 2020
+**Lionbridge Technologies** | Maps Analyst & Entity Intent Judge | May 2019 - August 2020
 
 **College Pro Painters** | Project Manager | May 2018 - August 2018
 
 ## Interests
 
-**Sports**: NFL (Colts), NBA (Raptors), NHL (Capitals), MLB (Blue Jays), Premier League (Liverpool F.C.)
+**Sports**: NFL (Colts), NBA (Raptors), NHL (Capitals), MLB (Blue Jays), Premier League (Liverpool F.C.), Playing (These days pretty much anything, but previously football, basketball, baseball, and track)
 
-**Movies**: Check out my [Letterboxd](https://letterboxd.com/neelvisen/)
+**Movies**: [Letterboxd](https://letterboxd.com/neelvisen/)
+
+**Music**: [Spotify](https://open.spotify.com/user/o1todxsf5618myqhw7u806tdj)
+
+**Chess**: [Chess.com](https://www.chess.com/member/neeshlanc)
+
+**NYT Crossword**
 
 **Jeopardy!**
-
-**Chess**
 
 
