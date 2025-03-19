@@ -16,40 +16,37 @@ output:
 ---
 
 ## Bio
-Welcome to my landing page! My name is Neelansh (Neel), and I'm currently working as a Consultant at KPMG in Toronto. As part of the Enterprise Solutions (MS) team, my goal is to leverage Microsoft's extensive suite of next generation applications and technologies to deliver real-world business solutions to clients and stakeholders alike.
+Welcome to my landing page! My name is Neelansh (Neel for short), and I'm currently working as a Consultant at KPMG in Toronto. As a member of the Enterprise Solutions team, my job is to leverage Microsoft's suite of applications and technologies to develop practical business solutions for clients and stakeholders.
 
-A lifelong numbers guy, I graduated from the University of Toronto with a degree in economics, mathematics, and statistics in 2021. I am a firm believer in the the storytelling power of data, and hope to continue forging a career in analytics.
+I graduated from the University of Toronto with a degree in economics, mathematics, and statistics in 2021. Outside of work, I love staying active (currently training for a marathon), cooking, following sports, watching movies, and playing games like Chess, the NYT Crossword, and Jeopardy!
 
-Feel free to take a look around at some of my projects, resume, or contact me at neelvisen@gmail.com!
+Feel free to take a look around at some of my old projects, resume, or contact me at neelvisen@gmail.com or on [LinkedIn]( https://www.linkedin.com/in/neelansh/).
 
 ## Skills & Certifications 
-**Languages**: Python (NumPy, Pandas, Beautiful Soup), R (Tidyverse, Simulations, Statistical Computing) 
 
-**Databases**: MySQL, BigQuery, LookML, dbt
+**Programming Languages**: Python, JavaScript, R, HTML, CSS
+
+**Data Analytics**: SQL, BigQuery, LookML, dbt
 
 **Business Intelligence**: Microsoft Office, Google Suite, Tableau, Looker, Power BI, Adobe Analytics
 
-**Certifications**: Power Platform (PL-300, PL-900), Azure (AI-900, AZ-900, DP-900), Dynamics 365 (MB-910)
+**Certifications**: Power Platform (PL-300, PL-900), Azure (AI-900, AZ-900, DP-900), Dynamics 365 (MB-910, MB-230)
 
 ## Education
 
 **University of Toronto - St. George** | Toronto, ON
 
-Hons. BSc. Economics, Double Minor in Mathematics and Statistics | September 2017 - June 2021
+**Hons. BSc. Economics, Double Minor in Mathematics and Statistics** | September 2017 - June 2021
 
 ## Experience
 
-**KPMG** | Functional/Technical Consultant | January 2022 - Present
+**KPMG** | Management Consultant | January 2022 - Present
 
-**Loblaw Digital** | Marketing Intelligence/Data Analyst | September 2021 - December 2021
-
-**Lionbridge Technologies** | Maps Analyst & Entity Intent Judge | May 2019 - August 2020
-
-**College Pro Painters** | Project Manager | May 2018 - August 2018
+**Loblaw Digital** | Data Analyst | September 2021 - December 2021
 
 ## Interests
 
-**Sports**: NFL (Colts), NBA (Raptors), NHL (Capitals), MLB (Blue Jays), Premier League (Liverpool F.C.), Playing (These days pretty much anything, but previously football, basketball, baseball, and track)
+**Sports**: NFL (Colts), NBA (Raptors), NHL (Capitals), MLB (Blue Jays), Premier League (Liverpool F.C.) 
 
 **Movies**: [Letterboxd](https://letterboxd.com/neelvisen/)
 

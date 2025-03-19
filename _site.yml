@@ -9,7 +9,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Projects"
+    - text: "Coding Projects"
       menu:
         - text: "Yelp EDA (Python)"
           href: project_1.html
