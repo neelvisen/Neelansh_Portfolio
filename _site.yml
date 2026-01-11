@@ -18,7 +18,7 @@ navbar:
         - text: "Toronto Apartment Ratings (R)"
           href: project_3.html
     - text: "CV"
-      href: pdfs/Neelansh Visen Resume.pdf
+      href: pdfs/Neelansh Visen Resume PM.pdf
     - icon: fa fa-github
       href: https://github.com/neelvisen
     - icon: fa fa-linkedin
