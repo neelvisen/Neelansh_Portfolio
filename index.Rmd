@@ -24,19 +24,20 @@ Feel free to take a look around at some of my old projects, resume, or contact m
 
 ## Skills & Certifications 
 
-**Programming Languages**: Python, JavaScript, R, HTML, CSS
+**Product**: Roadmapping, PRDs, OKR/KPI definition, Agile/Scrum, A/B testing
 
-**Data Analytics**: SQL, BigQuery, LookML, dbt
+**AI & Data**: SQL, Python, Power BI, Looker, dbt, Databricks, GCP, Prompt Engineering (Claude/ChatGPT)
 
-**Business Intelligence**: Microsoft Office, Google Suite, Tableau, Looker, Power BI, Adobe Analytics
+**Engineering & Dev**: JavaScript, HTML/CSS, Azure DevOps, Git, REST APIs, Power Platform
 
-**Certifications**: Power Platform (PL-300, PL-900), Azure (AI-900, AZ-900, DP-900), Dynamics 365 (MB-910, MB-230)
+**Interests**: Sports (Football, Basketball, Baseball, Hockey, Soccer), film, cooking, running, chess, Jeopardy!
+
 
 ## Education
 
 **University of Toronto - St. George** | Toronto, ON
 
-**Hons. BSc. Economics, Double Minor in Mathematics and Statistics** | September 2017 - June 2021
+**Hons. BSc. Economics, Mathematics, Statistics** | September 2017 - June 2021
 
 ## Experience
 
