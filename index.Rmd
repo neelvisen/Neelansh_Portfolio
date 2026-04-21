@@ -16,7 +16,7 @@ output:
 ---
 
 ## Bio
-Welcome to my landing page! My name is Neelansh (Neel for short), and I'm currently working as a PM at KPMG in Toronto. 
+Welcome to my landing page! My name is Neelansh (Neel for short), and I'm currently working as a PM/Deployment Strategist at KPMG in Toronto. 
 
 I graduated from the University of Toronto with a degree in economics, mathematics, and statistics in 2021. Outside of work, I love staying active (training for marathon #2!), cooking, following sports, watching movies, and playing games like Chess, the NYT Crossword, and Jeopardy!
 
